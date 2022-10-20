@@ -6,4 +6,6 @@ Skin diseases are the most common among the world, as people get skin disease du
  So, we propose a hybrid approach method of AI based machine learning techniques to overcome this manual inspection. For this the input images would be microscopic images i.e histopathological from which features like colour, shape and texture are extracted and given to convolutional neural network (CNN) for classification and disease identification. Our objective of the project is to detect the type of skin disease easily with accuracy and recommend the best and global medical suggestions.
  
 ARCHITECTURE:
+
+
 ![image](https://user-images.githubusercontent.com/105476918/197006061-170884ef-6e3f-412f-a0f7-2395edb60ec5.png)
